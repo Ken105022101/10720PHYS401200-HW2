@@ -1,6 +1,6 @@
 # 10720PHYS401200-HW2
-10720PHYS401200 Homework-1
+10720PHYS401200 Homework-2
 
-ID: None.
+ID: 105022101
 
-Name: None.
+Name: 周執方
